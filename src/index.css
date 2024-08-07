@@ -7,9 +7,10 @@
     sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  font-feature-settings: "liga" off, "clig" off;
 
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #d5e1ef;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
